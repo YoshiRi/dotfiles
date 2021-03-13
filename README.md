@@ -11,5 +11,5 @@
 
 
 - `mv .xxx dotfiles`
-- `ln dotfiles/.xxx ~/.xxx`
+- `ln -s dotfiles/.xxx ~/.xxx`
 
