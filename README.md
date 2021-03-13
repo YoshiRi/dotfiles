@@ -5,6 +5,7 @@
 ## managing file lists
 
 - .zshrc
+- .zshenv
 
 
 ## command history
